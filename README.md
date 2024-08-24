@@ -1,2 +1,2 @@
 <h1>Projeto de um Web server</h1>
-<img height=350 src="https://camo.githubusercontent.com/16bbe3c62e06c0099a8bd86816b7993b3eb49d8cd21eb74c7bff7db7dc3787b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667">
+<img height=350 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F144767%2Fnodejs&psig=AOvVaw3oYjPce1lADqzQDHqyBAdu&ust=1724562016145000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj7iqfsjIgDFQAAAAAdAAAAABAJ">
